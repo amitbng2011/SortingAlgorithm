@@ -1,5 +1,9 @@
 package src.main.java.sorting.bubblesort;
 
+/**
+ * @Desc Swap elements until they appear in a correct order
+ * @author amit
+ */
 public class BubbleSort {
 	public static void main(String[] args) {
 		int[] bubbleSortArr = {5,1,4,2,8};
